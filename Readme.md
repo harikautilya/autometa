@@ -1,6 +1,11 @@
 # Django admin automation
 This project is used to handle simple automation for updating data using django admin. Run , go eat, sleep and forget.
 
+# Setup
+1. Install python (This is developed on 3.6 version)
+2. ` pip install -r req.txt ` to install all requirments
+3. Enable automation in safari
+
 # Usage
 Start by creating the object with admin, username and password 
 ```
