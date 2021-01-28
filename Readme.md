@@ -19,3 +19,11 @@ admin.navigate_to_table_with_key(app=<app_name>, table=<table_name>, key=<id>)
 ```
 admin.write_to_column(column=<col_name>, value=<value_to_write>)
 ```
+ - Find Element by col
+```
+admin.find_element_by_id(id=<col_name>)
+```
+
+# Pending 
+ - Checkbox 
+ - Spinner selection
